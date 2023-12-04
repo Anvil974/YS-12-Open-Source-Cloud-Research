@@ -1,0 +1,1 @@
+cat word_count_data.txt | python mapper.py | sort | python reducer.py
