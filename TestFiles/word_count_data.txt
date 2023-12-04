@@ -1,2 +1,9 @@
-hello world tensorflow
+hello mapreduce hadoop world tensorflow hadoop
 mapreduce wordcount mapreduce tensorflow
+hello hello hello tensorflow
+hadoop tensorflow hadoop
+hadoop mapreduce
+wordcount test
+example python
+cloud mapreduce
+computing
